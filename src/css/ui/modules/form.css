@@ -51,3 +51,12 @@ form select {
   background-size: 5px 5px, 5px 5px, 1.5em 1.5em;
   background-repeat: no-repeat;
 }
+
+.menu-list-box{
+  display: flex;
+  margin: 10px;
+}
+
+.menu-name{
+  flex: 1 0 auto;
+}
